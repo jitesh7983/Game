@@ -118,7 +118,7 @@ footer {
     }
 @media (max-width: 600px) {
  
-  
+  #msg,
   #reset-btn {
     width: 30%;
     font-size: 1rem;
