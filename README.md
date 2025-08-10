@@ -25,7 +25,6 @@ Challenge the computer, keep track of scores, and reset anytime — all with a m
 ## 📸 Screenshots
 ![Game Preview](Screenshot/game-preview-1.png)
 ![Game Preview](Screenshot/game-preview-2.png)
-![Game Preview](Screenshot/game-preview-3.png)
 
 ---
 
