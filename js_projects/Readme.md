@@ -21,14 +21,3 @@ Challenge the computer, keep track of scores, and reset anytime — all with a m
 - **JavaScript (ES6)** – Game logic and interactivity
 
 ---
-
-## 📸 Screenshots
-> _Add images of your game here, for example:_
-![Game Screenshot](screenshot.png)
-
----
-
-## 🚀 How to Run the Game
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/<your-username>/rock-paper-scissors.git
